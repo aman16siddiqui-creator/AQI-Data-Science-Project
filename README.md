@@ -70,9 +70,11 @@ Air pollution is a critical global health issue. This project aims to:
 
 **PCA:** Explained only 21.4% variance — expected for synthetic, uncorrelated data.
 
-Screenshots of Important Charts
+**Screenshots of Important Charts**
 
-Report File Location
+https://github.com/aman16siddiqui-creator/AQI-Data-Science-Project/tree/main/AQI-Data-Science-Project/outputs/charts
 
+**Report File Location**
 
-Report File
+https://github.com/aman16siddiqui-creator/AQI-Data-Science-Project/blob/main/AQI-Data-Science-Project/report/AQI_Data_Science_Report.docx.pdf
+

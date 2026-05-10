@@ -1,0 +1,21 @@
+FINAL RESULTS SUMMARY
+
+Dataset:
+• Rows: 3660
+• Columns: 13
+
+KNN:
+• Best k: 7
+• Accuracy: 0.25
+
+Naive Bayes:
+• Accuracy: 0.3866
+
+K-Means:
+• Clusters: 3 (Low, Medium, High pollution)
+
+PCA:
+• Variance explained: 21.4%
+
+Conclusion:
+• Best model: Naive Bayes
